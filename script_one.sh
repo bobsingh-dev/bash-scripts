@@ -52,3 +52,5 @@ elif [ $month_number -eq 12 ]
 then
   echo December
 fi
+
+#Added this message to test commited changes to the main branch via git 
