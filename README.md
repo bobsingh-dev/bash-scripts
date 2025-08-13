@@ -1,0 +1,1 @@
+This is my first upload to Github using Git. I decided to create a simple Bash Script that requires the user to enter a valid number between 1 and 12. Based on the number entered, the script outputs the corresponding month of the year -- for example, entering 3 returns March
